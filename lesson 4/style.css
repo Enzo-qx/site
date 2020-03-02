@@ -1,0 +1,44 @@
+.container1 {
+  display: flex;
+  width: 944px;
+  margin-left: auto;
+  margin-right: auto;
+ }
+.tab {
+    text-align: center;
+    background-color: #f7f7f7;
+    width: 236px;
+    height: 420px;
+    border: solid 1px #ececec;
+    background-color: #f7f7f7;
+    }
+.im {
+    margin-top: 55px;
+    margin-left: auto;
+}
+.zag {
+  width: 138px;
+  height: 41px;
+  font-family: Montserrat;
+  font-size: 21px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #1b1b1b;
+  margin-left: auto;
+  margin-right: auto;
+  }
+.text1 {
+  width: 225px;
+  height: 101px;
+  font-family: PTSans;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.57;
+  letter-spacing: normal;
+  text-align: center;
+  color: #777777;
+  margin-left: auto;
+  margin-right: auto;
+}
